@@ -2129,6 +2129,7 @@ input[type='checkbox'] {
 }
 
 .announcement-bar {
+	background: #e6e6e6;
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
   color: rgb(var(--color-foreground));
 }
@@ -2162,7 +2163,6 @@ input[type='checkbox'] {
   padding: 1rem 2rem;
   margin: 0;
   letter-spacing: 0.1rem;
-	background: #e6e6e6;
 }
 
 /* section-header */
